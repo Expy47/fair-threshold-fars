@@ -1,7 +1,8 @@
 # Fair threshold modification for deep-learning crash prediction
 
-A reproduction of the threshold-modification method of Chen, Xu and Peeta
-(2025), *Transportation Research Part B*, applied to FARS 2016–2018 crash data.
+A reproduction of the threshold-modification method of
+[*Deep learning-based travel choice prediction with provable and adaptable fairness guarantees*](https://doi.org/10.1016/j.trb.2025.103318),
+*Transportation Research Part B*, applied to FARS 2016–2018 crash data.
 
 The method assigns each sensitive group its own decision threshold so that the
 difference in per-group accuracy is no longer statistically significant under a
